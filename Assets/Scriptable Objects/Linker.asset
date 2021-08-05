@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e48f83b8bff557d4ebe6caa2a1bbaf5e, type: 3}
+  m_Name: Linker
+  m_EditorClassIdentifier: 
+  board: {fileID: 0}
+  queue: {fileID: 0}
+  gameOver: {fileID: 0}
+  piecePrefabs:
+  - {fileID: 8217519741575732080, guid: e54522c7cef711e4e8b21b758ebc8760, type: 3}
+  - {fileID: 8217519741575732080, guid: 6faff75ddf580a84c94bef39e173b248, type: 3}
+  - {fileID: 8217519741575732080, guid: 18803739735eb6a49b189772d7ed655d, type: 3}
+  - {fileID: 8217519741575732080, guid: 7cc2de891d7d4c640a23dde2478332fe, type: 3}
+  - {fileID: 8217519741575732080, guid: 8827485173ec5bc4fa96ff323c1cc4a8, type: 3}
+  - {fileID: 8217519741575732080, guid: f9c1d8f7b67fd2e4c8ba42b547419791, type: 3}
+  - {fileID: 8217519741575732080, guid: 6dedceb9793a8574eb5d86e15c3aab64, type: 3}
+  - {fileID: 8217519741575732080, guid: 98726bedb967ddc4ea6d9f208bca46fa, type: 3}
+  - {fileID: 8217519741575732080, guid: 1c2c2e3cb12415b4c9f9dce969898228, type: 3}
+  - {fileID: 8217519741575732080, guid: a20e6772a2946d443ae581b5d90513bf, type: 3}
+  - {fileID: 8217519741575732080, guid: 221d61df491e7f144b439ae24f8075c3, type: 3}
+  - {fileID: 8217519741575732080, guid: 4a3bd04b31f85f347beb3cb86d36c43f, type: 3}
+  - {fileID: 8217519741575732080, guid: 590b151ca7fbe544ea88de6a79849a03, type: 3}
+  - {fileID: 8217519741575732080, guid: f3bcd124295a01e4198c9b74c37ac62b, type: 3}
+  - {fileID: 8217519741575732080, guid: 3f8571e525368d640a54dca704e13f0c, type: 3}
+  - {fileID: 8217519741575732080, guid: 5e8fe29fe398d5944ae2f77a6be5132e, type: 3}
+  colors:
+  - {r: 0.9433962, g: 0.9433962, b: 0.9433962, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0.8301887, b: 0, a: 1}
+  - {r: 0, g: 0.74509805, b: 1, a: 1}
+  - {r: 1, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0.5019608, b: 0, a: 1}
+  squareSprites:
+  - {fileID: 21300000, guid: 3159a7a36dc1407489abcd01683c3fbf, type: 3}
+  - {fileID: 21300000, guid: 00688c06a4709b94fb49dc7eb0dbf23f, type: 3}
+  - {fileID: 21300000, guid: 0e4d8180de904ec43aac0564d4ed5861, type: 3}
+  - {fileID: 21300000, guid: 144a6d0b24186e546965f7044bfa91a5, type: 3}
+  - {fileID: 21300000, guid: 69025fcc3bfdefb4c8ea202864f8a2f4, type: 3}
